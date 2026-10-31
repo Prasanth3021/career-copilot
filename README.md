@@ -2,6 +2,9 @@
 
 **Alexa+ track entry** for the *Build, Ship, Shape: Amazon Developer Hackathon* (Devpost).
 
+**Demo video (1:35):** https://www.youtube.com/watch?v=qaGbdc_EqP8
+**Devpost project:** https://devpost.com/software/career-copilot-zejk8u
+
 Career Copilot is a Model Context Protocol (MCP) server that gives an AI
 assistant three career tools for a job hunt:
 
